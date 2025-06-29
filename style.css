@@ -346,12 +346,6 @@ footer {
     animation: bounce;
     animation-duration:6s;
 }
-.flechafrase {
-    animation: bounce;
-    animation-duration:6s;
-    animation-iteration-count:300ms;
-}
-}
 footer .contenido{
     display: flex;
     flex-direction: column;
