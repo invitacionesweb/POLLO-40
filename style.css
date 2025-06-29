@@ -328,9 +328,7 @@ main p {
     margin: 0;
     font-size: 1.2em;
 }
-.end .espejo{
-    transform: scaleX(-1);
-}
+
 
 footer {
     width: 100%;
