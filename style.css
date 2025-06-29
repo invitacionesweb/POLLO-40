@@ -114,7 +114,7 @@ header .header-info {
 /* TODO AUIDO */
 .audiodiv {
     position: fixed;
-    top: 20px;
+    bottom: 20px;
     right: 20px;
     background-color: var(--color-secundario);
     width: 60px;
@@ -338,6 +338,11 @@ footer {
     color: var(--color-principal);
     padding: 40px 0;
     text-align: center;
+}
+ .flecha {
+    width: 100px;
+    animation: bounce;
+    animation-duration:6s;
 }
 footer .contenido{
     display: flex;
