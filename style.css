@@ -68,6 +68,7 @@ header .header-info {
     background-position: bottom;
     color: var(--color-terciario);
     text-align: center;
+    color: var(--color-principal);
     display: flex;
     align-items: center;
     justify-content: center;
