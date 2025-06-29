@@ -112,7 +112,12 @@ header .header-info {
     max-width: 350px;
     font-size: 1.2rem;
 }
-/* TODO AUIDO */
+.audiodiv {
+    text-align: center;
+    padding: auto;
+    margin: auto;
+}
+/* TODO AUIDO 
 .audiodiv {
     position: fixed;
     bottom: 20px;
@@ -153,7 +158,7 @@ header .header-info {
     transform: translate(-50%, -50%);
 }
 
-/* Ocultar los controles nativos del audio */
+/* Ocultar los controles nativos del audio 
 audio::-webkit-media-controls {
     display:none !important;
 }
@@ -177,7 +182,7 @@ audio::-webkit-media-controls-enclosure {
 audio::-webkit-media-controls-current-time-display {
     display:none !important;
 }
-
+*/
 
 
 .boton {
