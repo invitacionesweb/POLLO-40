@@ -340,7 +340,8 @@ footer {
     text-align: center;
 }
  .flecha {
-    width: 100px;
+    width: 80px;
+    max-width: 80px;
     animation: bounce;
     animation-duration:6s;
 }
